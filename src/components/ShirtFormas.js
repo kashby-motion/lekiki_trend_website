@@ -60,7 +60,7 @@ function ShirtFormas(props) {
                 {/* Shirt Text */}
                 <div className="shirt-text">
                     <h2>Formas (t-shirt)</h2>
-                    <h3>$25</h3>
+                    <h3>$20</h3>
                     <p className="small-text margin-bottom-24">Free Shipping</p>
                     {/* Shirt Size Picker */}
                     <form className="shirt-size-selection">
