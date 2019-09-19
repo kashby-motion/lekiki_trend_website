@@ -18,7 +18,7 @@ function App() {
                 <ShirtCard
                     shirtName="carioca"
                     name="Carioca"
-                    price="$25"
+                    price="$20"
                     buttonType="primary-btn"
                     buttonText="View Shirt"
                     shirtDescription="grey shirt with Christ statue overlooking pao de açucar"
@@ -26,7 +26,7 @@ function App() {
                 <ShirtCard
                     shirtName="kombi"
                     name="Kombi"
-                    price="$25"
+                    price="$20"
                     buttonType="primary-btn"
                     buttonText="View Shirt"
                     shirtDescription="blue shirt with a line drawing of an old VW bus"
@@ -34,7 +34,7 @@ function App() {
                 <ShirtCard
                     shirtName="autentico"
                     name="Autentico"
-                    price="$25"
+                    price="$20"
                     buttonType="primary-btn"
                     buttonText="View Shirt"
                     shirtDescription="black shirt that has a stamp that says made in brazil"
@@ -42,7 +42,7 @@ function App() {
                 <ShirtCard
                     shirtName="formas"
                     name="Formas"
-                    price="$25"
+                    price="$20"
                     buttonType="primary-btn"
                     buttonText="View Shirt"
                     shirtDescription="navy blue shirt with shapes from the Brazlian flag, blue circle, yellow triangle, and green square"
